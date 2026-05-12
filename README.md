@@ -1,6 +1,6 @@
 # Tigrinya ASR Research
 
-Research on low-resource Tigrinya Automatic Speech Recognition (ASR) systems conducted during my Machine Learning Research Internship at Lesan.AI.
+Research on low-resource Tigrinya Automatic Speech Recognition (ASR) systems conducted during my paid Machine Learning Research Internship at Lesan.AI, a German based AI company specifically working on African languages.
 
 ## Research Overview
 
@@ -22,7 +22,7 @@ This work was presented at:
 Mekelle University, Ethiopia  
 April 27–28, 2026
 
-The camera-ready manuscript is under preparation for publication
+The camera-ready manuscript is under preparation for publication.
 ## Repository Structure
 
 ```text
