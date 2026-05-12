@@ -21,7 +21,7 @@ This work was presented at:
 **International Conference on Artificial Intelligence for Sustainable Development (AI4SD 2026)**  
 Mekelle University, Ethiopia  
 April 27–28, 2026
-
+The camera-ready manuscript under preparation for publication
 ## Repository Structure
 
 ```text
